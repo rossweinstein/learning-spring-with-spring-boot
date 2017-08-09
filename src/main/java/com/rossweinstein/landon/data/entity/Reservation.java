@@ -1,7 +1,5 @@
 package com.rossweinstein.landon.data.entity;
 
-import org.springframework.web.bind.annotation.CrossOrigin;
-
 import javax.persistence.*;
 import java.util.Date;
 
